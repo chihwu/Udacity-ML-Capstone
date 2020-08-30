@@ -1,0 +1,11 @@
+Thank you for your time for reviewing my Starbucks Capstone project.
+
+* All my project code is supposed to be in the Starbucks_Capstone_notebook.ipynb file. The datasets used by 
+my project are all in the data folder with three files in it. They are listed below:
+
+	* portfolio.json
+	* profile.json
+	* transcript.json
+
+The csv file named model_df.csv contains the dataframe data produced after calculating each user's valid offer completion, which 
+requires quite some computation. Thus, it is saved separately as a csv file.
